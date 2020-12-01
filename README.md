@@ -1,4 +1,4 @@
-# LoRa LoStik Pipe & Networking Tools
+# LoRa LoStik Pipe & Networking Tools 
 
 So you have a fantastic long-range LoRa device, such as a Lostik, and
 you'd like to be able to do Unixy things with it -- maybe pipe stuff
